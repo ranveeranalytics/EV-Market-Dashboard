@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-Assets/ev-sales-dashboar-image.png
+![Dashboard Preview](Assets/ev-sales-dashboard-image.png)
 
 ---> Project Overview
 
